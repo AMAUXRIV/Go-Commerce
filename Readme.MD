@@ -8,8 +8,8 @@
 🏴‍☠️ > Single Products Page <br>
 🏴‍☠️ > Shopping Cart <br>
 🏴‍☠️ > Checkout <br>
-    🏴‍☠️ > Shipping Cost Calculation <br>
-    🏴‍☠️ > Payment Gateway <br>
+    - 🏴‍☠️ > Shipping Cost Calculation <br>
+    - 🏴‍☠️ > Payment Gateway <br>
 🏴‍☠️ > Order History <br>
 🏴‍☠️ > Admin Panel <br>
     🏴‍☠️ > Dashboard <br>
